@@ -1,3 +1,33 @@
+## [v4.23.3](https://github.com/algolia/algoliasearch-client-javascript/compare/4.23.2...4.23.3)
+
+* fix(types): add `serverTimeMS` to search response (#1518) ([a1d1707](https://github.com/algolia/algoliasearch-client-javascript/commit/a1d1707)), closes [#1518](https://github.com/algolia/algoliasearch-client-javascript/issues/1518)
+
+
+
+## [v4.23.2](https://github.com/algolia/algoliasearch-client-javascript/compare/4.23.1...4.23.2)
+
+* fix(recommend): only export default function (#1514) ([4a04d8e](https://github.com/algolia/algoliasearch-client-javascript/commits/4a04d8e)), closes [#1514](https://github.com/algolia/algoliasearch-client-javascript/issues/1514)
+
+
+
+## [v4.23.1](https://github.com/algolia/algoliasearch-client-javascript/compare/4.23.0...4.23.1)
+
+* fix(recommend): export recommend methods to use them in algoliasearch (#1512) ([5fc5f4f](http://algolia/algoliasearch-client-javascript/commits/5fc5f4f)), closes [#1512](http://algolia/algoliasearch-client-javascript/issues/1512)
+
+
+
+## [v4.23.0](https://github.com/algolia/algoliasearch-client-javascript/compare/4.22.1...4.23.0)
+
+* feat(search): fetch recommendations directly from algoliasearch (#1509) ([8087b28](http://algolia/algoliasearch-client-javascript/commits/8087b28)), closes [#1509](http://algolia/algoliasearch-client-javascript/issues/1509)
+
+
+
+## [v4.22.1](https://github.com/algolia/algoliasearch-client-javascript/compare/4.22.0...4.22.1)
+
+* fix(recommend): update recommended-for-you model type (#1500) ([f94ce64](https://github.com/algolia/algoliasearch-client-javascript/commit/f94ce64)), closes [#1500](https://github.com/algolia/algoliasearch-client-javascript/issues/1500)
+
+
+
 ## [v4.22.0](https://github.com/algolia/algoliasearch-client-javascript/compare/4.21.1...4.22.0)
 
 * fix(recommend): update TrendingFacetHit facetValue type to string (#1498) ([ac9d6e2](https://github.com/algolia/algoliasearch-client-javascript/commit/ac9d6e2)), closes [#1498](https://github.com/algolia/algoliasearch-client-javascript/issues/1498)
